@@ -1,5 +1,7 @@
 # esp32-serial-mcp
 
+> 🌐 **中文(默认)** | [**English**](README.en.md)
+
 ESP32 串口调试工具的最小 stdio MCP server + CLI,解决在 Claude Code 等非交互环境里
 `pio device monitor` 不可用(`termios.error`)的问题。
 
