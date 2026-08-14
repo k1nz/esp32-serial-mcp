@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "esp32-serial": {
+      "command": "/Users/mel000004204/.platformio/penv/bin/python",
+      "args": [
+        "/Users/mel000004204/workspace/iot/esp32/esp32-serial-mcp/esp32_mcp_server.py"
+      ]
+    }
+  }
+}
